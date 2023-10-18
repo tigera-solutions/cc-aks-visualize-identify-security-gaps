@@ -78,7 +78,7 @@ In modern cloud-native security, threat intelligence feeds are vital for monitor
 
 1. Explore the Threat Feeds available in Calico Cloud UI in the `Threat Defense` > `Threat Feeds`. Click on each one of them to visualize the lists of IP addresses or domains.
 
-![threat-feeds](https://github.com/tigera-solutions/cc-aks-visualize-identify-security-gaps/assets/104035488/719cb334-e981-4e5e-8ef4-b37eea4a422b)
+   ![threat-feeds](https://github.com/tigera-solutions/cc-aks-visualize-identify-security-gaps/assets/104035488/719cb334-e981-4e5e-8ef4-b37eea4a422b)
 
 2. Using the pod attacker, try to connect to some of the IP addresses and domains you found in the alienvault lists.
 
@@ -88,7 +88,7 @@ In modern cloud-native security, threat intelligence feeds are vital for monitor
 
 3. Wait a minute and go to the Calico Cloud UI in the `Activity` > `Alerts`. You should be able to see the alerts for the connection attempt.
 
-![activity-alerts](https://github.com/tigera-solutions/cc-aks-visualize-identify-security-gaps/assets/104035488/ed2aad8c-f713-4e0e-b5c5-8abdb299fdb4)
+   ![activity-alerts](https://github.com/tigera-solutions/cc-aks-visualize-identify-security-gaps/assets/104035488/ed2aad8c-f713-4e0e-b5c5-8abdb299fdb4)
 
 ## Quarantine a workload
 

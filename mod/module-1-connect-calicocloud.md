@@ -104,6 +104,6 @@ When you change the cluster, the Calico Cloud context will change immediately to
 
 --- 
 
-[:arrow_right: Module 2 -Analyze service-to-service communication](/mod/module-2-analyze-communications.md)  <br>
+[:arrow_right: Module 2 - Analyze service-to-service communication](/mod/module-2-analyze-communications.md)  <br>
 
 [:arrow_left: Back to Main](/README.md)  
