@@ -57,7 +57,7 @@ Module 1 - [Connect the AKS cluster to Calico Cloud](/mod/module-1-connect-calic
 Module 2 - [Analyze service-to-service communication](/mod/module-2-analyze-communications.md)  
 Module 3 - [Malware protection, access control and quarantine with Thread Defence](/mod/module-3-threat-defense.md)  
 Module 4 - [Enforcing security policy to stop C&C attacks](/mod/module-4-security-policies.md)  
-Module 5 - [Clean up](/mod/module-6-clean-up.md)  
+Module 5 - [Clean up](/mod/module-5-clean-up.md)  
 
 --- 
 
