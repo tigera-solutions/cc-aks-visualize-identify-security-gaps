@@ -7,8 +7,8 @@ In this module, we will learn how to use Calico to create network policies to co
 1. Clone this repository in your Azure Cloud Shell.
 
    ```bash
-   git clone https://github.com/tigera-solutions/cc-aks-implement-runtime-security.git && \
-   cd cc-aks-implement-runtime-security
+   git clone https://github.com/tigera-solutions/cc-aks-visualize-identify-security-gaps.git && \
+   cd cc-aks-visualize-identify-security-gaps
    ```
 
 2. Installing the example application stacks:
