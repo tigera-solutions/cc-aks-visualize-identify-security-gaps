@@ -133,7 +133,7 @@ For more information about tiers, please refer to the Calico Cloud documentation
 
 --- 
 
-[:arrow_right: Module 5 - Clean up](/mod/module-6-clean-up.md)    <br>
+[:arrow_right: Module 5 - Clean up](/mod/module-5-clean-up.md)    <br>
 
 [:arrow_left: Module 3 - Malware protection, access control and quarantine with Thread Defence](/mod/module-3-threat-defense.md)     
 [:leftwards_arrow_with_hook: Back to Main](/README.md)  
