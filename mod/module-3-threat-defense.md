@@ -45,7 +45,7 @@ To test this feature, let's download a file that contains the hash of a malware 
 1. Execute the bash inside the pod attack in way you can interact with its shell prompt:
 
    ```bash
-   kubectl exec attack -it -- /bin/bash
+   kubectl exec attacker -it -- /bin/bash
    ```
 
 2. From the bash inside the pod attacker execute the following command to: 1) Download the malware, change its permission and run it.
