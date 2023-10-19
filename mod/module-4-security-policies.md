@@ -4,6 +4,8 @@ Calico provides methods to enable fine-grained access controls between microserv
 
 Using the `Example Voting Application` previously installed, we will create and test network security policies with different ingress and egress rules to demonstrate how you can enforce security policy to stop command and control and other attacks.
 
+![vote](https://github.com/tigera-solutions/cc-eks-compliance/assets/104035488/142ea62b-be3e-4c37-b39c-b501e1834f89)
+
 ## Security Policies
 
 Calico Security Policies provide a richer set of policy capabilities than the native Kubernetes network policies, including:  
